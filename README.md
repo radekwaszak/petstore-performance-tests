@@ -45,4 +45,4 @@ k6 cloud browsing-product-categories.js
 ```
 
 ## **License**
-This project is licensed under the MIT License. See LICENSE for details.
+This project is licensed under the MIT License. See [LICENSE](https://github.com/radekwaszak/petstore-performance-tests/blob/main/LICENSE) for details.
