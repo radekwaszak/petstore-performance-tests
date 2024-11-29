@@ -13,7 +13,7 @@ This project aimed to assess the performance, functionality, and reliability of 
 
 ## **Overall Test Results**
 
-Detailed results for each run can be found in the reports folder.
+Detailed results for each run can be found in the [GrafanaCloud Tests Reports](https://github.com/radekwaszak/petstore-performance-tests/tree/main/GrafanaCloud%20Tests%20Reports) folder.
 
 VUs = Virtual Users
 
