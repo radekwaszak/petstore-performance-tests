@@ -27,10 +27,10 @@ All tests passed successfully. For detailed results, refer to the [Final Report]
 ### **Running Tests**
 1. Clone this repository:
   
-   ```
-   git clone https://github.com/radekwaszak/petstore-performance-tests
-   cd petstore-performance-tests
-   ```
+```
+git clone https://github.com/radekwaszak/petstore-performance-tests
+cd petstore-performance-tests
+```
 
 2. Run the test scripts locally:
 
