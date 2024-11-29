@@ -28,20 +28,20 @@ All tests passed successfully. For detailed results, refer to the [Final Report]
 1. Clone this repository:
   
    ```
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/radekwaszak/petstore-performance-tests
+   cd petstore-performance-tests
    ```
 
 2. Run the test scripts locally:
 
 ```
-k6 run <test-script-name.js>
+k6 run browsing-product-categories.js
 ```
 
 3. Upload results to k6 Cloud:
 
 ```
-k6 cloud <test-script-name.js>
+k6 cloud browsing-product-categories.js
 ```
 
 ## **License**
