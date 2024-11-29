@@ -14,6 +14,7 @@ This project aimed to assess the performance, functionality, and reliability of 
 ## **Overall Test Results**
 
 Detailed results for each run can be found in the reports folder.
+
 VUs = Virtual Users
 
 ### **1. Browsing Product Categories**
